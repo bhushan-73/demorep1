@@ -3,6 +3,16 @@
 echo "Print pattern";
 echo  "<br/>";
 
+/*
+print a pattern like
+*
+***
+*****
+***
+*
+
+
+*/
 for($w=1; $w<=4; $w++)
 {
     for($g=4; $g>=$w; $g--){
