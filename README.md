@@ -1,1 +1,1 @@
-Sample codes of PHP
+Sample codes for PHP
