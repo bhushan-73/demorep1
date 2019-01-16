@@ -5,11 +5,11 @@ echo  "<br/>";
 
 /*
 print a pattern like 
+
    *
   ***
  *****
 *******
-
 
 */
 for($w=1; $w<=4; $w++)
