@@ -4,12 +4,11 @@ echo "Print pattern";
 echo  "<br/>";
 
 /*
-print a pattern like
-*
-***
-*****
-***
-*
+print a pattern like 
+   *
+  ***
+ *****
+*******
 
 
 */

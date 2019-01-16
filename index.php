@@ -314,6 +314,15 @@ echo tempe(8,8);
 
 echo  "<br/>";
 echo "Print pattern";
+/*
+print a pattern like 
+*
+***
+*****
+***
+*
+
+*/
 echo  "<br/>";
 
 for($w=1; $w<6; $w++)
